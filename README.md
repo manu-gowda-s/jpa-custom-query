@@ -1,0 +1,1 @@
+# jpa-custom-query

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 02 12:43:59 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0182-fd0c-9dd0-0000011122d8 
+on database directory memory:/home/shivanna/intelJWorkSpace/junitmockito/9220892e-951b-45e0-84af-4bcf95930790 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/home/shivanna/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/home/shivanna/intelJWorkSpace/junitmockito
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-46-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
